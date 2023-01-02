@@ -1,0 +1,76 @@
+{
+    "users": [
+      {
+        "name": "peter parker",
+        "username": "spiderman",
+        "email": "spidey@gmail.com",
+        "phone": "5816383452",
+        "website": "spideyverse.com",
+        "id": 1,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBKRizGW6Md-BUD5MchQ_UWgYZVKwNQxoPzQte9r0fwSQzBV6h"
+      },
+      {
+        "name": "Bruce banner",
+        "username": "Hulk",
+        "email": "greenbeast@gmail.com",
+        "phone": "2323232323",
+        "website": "smashdown.com",
+        "id": 2,
+        "image": "https://www.pinkvilla.com/imageresize/avengers-endgame-star-mark-ruffalo-celebrates-bruce-banners-50th-birthday-with-an-endearing-post.jpg?width=752&format=webp&t=pvorg"
+      },
+      {
+        "name": "bucky barns",
+        "username": "winter soldier ",
+        "email": "ironarm@gmail.com",
+        "phone": "4343434343",
+        "website": "ironarm.com",
+        "id": 3,
+        "image": "https://i1.sndcdn.com/artworks-Mucy5WL7ndCy4DWz-uWDnhw-t500x500.jpg"
+      },
+      {
+        "name": "natasha romanoff",
+        "username": "blackwidow",
+        "email": "widow@gmail.com",
+        "phone": "6969696969",
+        "website": "blackwidow.com",
+        "id": 4,
+        "image": "https://i.pinimg.com/originals/70/db/8e/70db8e8ab2bbaf0d494235be2dd5d312.jpg"
+      },
+      {
+        "name": "groot",
+        "username": "i_am_groot",
+        "email": "i_am_groot_@gmail.com",
+        "phone": "9090909090",
+        "website": "i_am_groot.com",
+        "id": 5,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrQv5pSB4ZSCIR4syQ-QMZGUYEEZ2MY-Wnks8LZxU0-JiUaN4_TSyS03qvCjEDNxOmKBs&usqp=CAU"
+      },
+      {
+        "name": "thor odison",
+        "username": "thor ",
+        "email": "strongestAvenger@gmail.com",
+        "phone": "1010101010",
+        "website": "urumuladevudu.com",
+        "id": 6,
+        "image": "https://i.pinimg.com/736x/4a/d7/87/4ad787b6b648c745724f4319f0aeae9d.jpg"
+      },
+      {
+        "name": "steve rogers",
+        "username": "captain america",
+        "email": "captain@gmail.com",
+        "phone": "73473737337",
+        "website": "ICanDoThisAllDay.com",
+        "id": 7,
+        "image": "https://i.pinimg.com/originals/a4/df/b3/a4dfb30dab46881c9be128bea6ca4762.jpg"
+      },
+      {
+        "name": "tony stark",
+        "username": "ironman",
+        "email": "starkEnterprises@gmail.com",
+        "phone": "5454545454",
+        "website": "jarvis.com",
+        "id": 8,
+        "image": "https://i.pinimg.com/474x/81/00/bd/8100bd63a4f957edf96673b4f3f4737e.jpg"
+      }
+    ]
+  }
